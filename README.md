@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Farhan Ali Rahmoon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanrah&label=Profile%20views&color=0e75b6&style=flat" alt="farhanrah" /> </p>
 
-- 📄 Know about me [https://rahmoon.net/](https://rahmoon.net/)
+- 📄 Know about me [https://rahmoon.net/](https://rahmoon.net/) <i><p>(Site is currently down, will be back up soon)</p></i>
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/farhan-rahmoon/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
