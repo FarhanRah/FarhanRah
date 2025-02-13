@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Farhan Ali Rahmoon</h1>
+<h1>Hi 👋, I'm Farhan Rahmoon</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhanrah&label=Profile%20views&color=0e75b6&style=flat" alt="farhanrah" /> </p>
 
 - 📄 Know about me [https://rahmoon.com/](https://rahmoon.com/)
